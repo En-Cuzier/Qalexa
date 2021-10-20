@@ -1,2 +1,13 @@
-# Qalexa
-https://github.com/En-Cuzier/Qalexa
+<div align="center">
+
+ ◄━━━━━━━━⦁⦁🧙⦁⦁━━━━━━━━►
+
+     𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗔 𝗕𝗘𝗧𝗔 
+
+ ◄━━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►
+
+<div align="center">
+
+╭───𝕋𝕖𝕝𝕖𝕘𝕣𝕒𝕞───╮
+│https://t.me/cuzier │
+╰────────────╯
