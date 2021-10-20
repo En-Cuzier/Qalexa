@@ -1,15 +1,17 @@
+<div align="center">
+
 #### © Select your language
   [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Neotro-x/blob/main/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Neotro-x/blob/main/README-SI.md)
 
-![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
-<h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
+![logo](https://telegra.ph/file/e03e7e9258b292cf33cf1.jpg)
+<h1 align="center"><b> 💖QUEEN ALEXA💖  </b></h1>
 
 
 
 
 <p align="center">
-    Project of  🎭ɴᴇᴏᴛʀᴏ𝙭🪐 - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
+    Project of  Queen Alexa - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
     <br>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> 
@@ -85,8 +87,8 @@ From the first device you need to install Neotro-x  Bot.`
 
 > [![Sinhala Youtube Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
-# 🚀Neotro-x
-Here is the Neotro-x  bot features
+# Queen Alexa
+Here is the Queen Alexa  bot features
 
 <a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
@@ -99,6 +101,8 @@ Here is the Neotro-x  Command list
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>
+
+<div align="center">
 
 ## F.A.Q
 Answer a few frequently asked questions;
@@ -118,10 +122,11 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Neotro-x  executives do not accept responsibility.
 By establishing the neotro-x, you are deemed to have accepted these responsibilities.
 ```
+<div align="center">
 
-## 👨‍💻Developer
+## ⚙Developer⚙
 
-[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![En-Cuzier](https://github.com/En-Cuzier.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
 <a href="https://Wa.me/+94766598862">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
@@ -146,26 +151,26 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
 [![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
 [![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
   
-### 🚀Neutro Team
+### Hatzuhole Team
 
-👨‍💻 © Chethana Bro *[ Owner ]*
+👨‍💻 © En cuzier [ Owner ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94770828171)
 
 
-👨‍💻 Ramilka Rodrigo [ Pluggings  ]
+👨‍💻 Teenuh Chethana broh [ Co owner , bug fixer  ]
 
-[![Find On Telegram ](https://img.shields.io/badge/Findon-telegram-blue.svg)](https://t.me/ramiya_yt)
+[![Find On Telegram ](https://img.shields.io/badge/Findon-telegram-blue.svg)](https://t.me/cuzier)
 
-👨‍💻 En Cuizer     [ Logo Creation ]
+👨‍💻 Ramika Rodrigo  [ pluggings ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+94725549179)
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://t.me/ramiya_yt)
 
-👨‍💻 Hazel Anne   [  BUG Reporter  ]
+👨‍💻 Mash z   [  BUG Reporter  ]
 
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/)
 
-👨‍💻 Rashid Ziyas  [ Script Writer ]
+👨‍💻 Mr.chaby  [ Script Writer ]
 
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+17723534981)
  
