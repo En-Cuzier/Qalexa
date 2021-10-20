@@ -133,47 +133,4 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
   
   </a>
 
-<a href="https://Wa.me/+14382551507">
-    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
-  
-  </a>
-
-<a href="https://Wa.me/+17722181933">
-    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
-  
-  </a>
-
-<a href="https://Wa.me/+17723534981">
-    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
-  
-  </a>
-
-[![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
-[![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
-  
-### Hatzuhole Team
-
-👨‍💻 © En cuzier [ Owner ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94770828171)
-
-
-👨‍💻 Teenuh Chethana broh [ Co owner , bug fixer  ]
-
-[![Find On Telegram ](https://img.shields.io/badge/Findon-telegram-blue.svg)](https://t.me/cuzier)
-
-👨‍💻 Ramika Rodrigo  [ pluggings ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://t.me/ramiya_yt)
-
-👨‍💻 Mash z   [  BUG Reporter  ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/)
-
-👨‍💻 Mr.chaby  [ Script Writer ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+17723534981)
- 
-## 👽Thanks To
-[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
-[Yusuf Usta](https://t.me/fusufs)
+<a
