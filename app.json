@@ -1,7 +1,7 @@
 {
-    "name": "🎭ɴᴇᴏᴛʀᴏ𝙭🪐",
-    "description": "🎭ɴᴇᴏᴛʀᴏ𝙭🪐 is a first Made in sri lanka 🇱🇰chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
-    "logo": "https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg",
+    "name": "⦁═Queen 👸 Alexa═⦁",
+    "description": "⦁═Queen 👸 Alexa═⦁ is a first Made in sri lanka 🇱🇰chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "logo": "https://telegra.ph/file/4b978de48c417dc1f4cb1.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "🎭ɴᴇᴏᴛʀᴏ𝙭🪐"],
     "repository": "",
     "website":   "https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX",
@@ -39,7 +39,7 @@
         "BOT_NAME": {
             "description": "Your Bot Name | ඔබේ Bot ගෙ නම",
             "required": false,
-            "value": "🚀NeotroX🎭"
+            "value": "*⦁═Queen 👸 Alexa═⦁*"
         },
         "SEND_READ": {
             "description": "Bot message seen කළාද නැතිද යන්න පරිශීලකට පෙන්විය යුතුද?",
@@ -97,7 +97,7 @@
          "ALIVE_LOGO": {
             "description": "ALIVE LOGO | Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
             "required": true,
-            "value": "https://telegra.ph/file/ef9be86d4f8e07cfb9210.jpg"
+            "value": "https://telegra.ph/file/e03e7e9258b292cf33cf1.jpg"
         },
         "WELCOME_LOGO": {
             "description": "WELCOME LOGO | Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
