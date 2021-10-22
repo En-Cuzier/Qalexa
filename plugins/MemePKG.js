@@ -8,7 +8,7 @@ const axios = require('axios');
 const Config = require('../config');
 const ll ="*Need some Word*"
 const Ln = "*▷🎭ɴᴇᴏᴛʀᴏ-𝙭🪐මීම් ලැයිස්තුව ඔබට අවශ්‍ය ලෙස මීම්ස් සකසා ගැනීමට◁* "
- const code = "*╔═════◉ɴᴇᴏᴛʀᴏ◉═════╗*\n           🎭ɴᴇᴏᴛʀᴏ-𝙭🪐\n*❖═මීම් ලැයිස්තුව═❖*\n\n*💠.yasai       ❴your text❵*\n*💠.uddika    ❴your text❵*\n*💠.aah          ❴your text❵*\n*💠.sir            ❴your text❵*\n*💠.my3         ❴your text❵*\n*💠.fuck         ❴your text❵*\n*💠.hii             ❴your text❵*\n*💠.asai          ❴your text❵*\n*💠.hapoi       ❴your text❵*\n*💠.anura       ❴your text❵*\n*💠.gemba       ❴your text❵*\n*💠.wow       ❴your text❵*\n*💠.hapo       ❴your text❵*\n*💠.babah       ❴your text❵*\n*💠.mcn       ❴your text❵*\n*💠.nah       ❴your text❵*\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Template Credit: එ.මි.ස ¡v**"
+ const code = *◄━━━━━━━⦁⦁🧙⦁⦁━━━━━━━►*\n*●QUEEN ALEXA MEME WORLD●*\n*◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━►*\n\n*🪀Command ●►* ```.bocca```\n*🪀Command ●►* ```.goad```\n*🪀Command ●►* ```.bomu```\n*🪀Command ●►* ```.gotaa```\n*🪀Command ●►* ```.tharindu```\n*🪀Command ●►* ```.saduni```\n*🪀Command ●►* ```.my3```\n*🪀Command ●►* ```.hora```\n*🪀Command ●►* ```.santha```\n*🪀Command ●►* ```.anura```\n*🪀Command ●►* ```.gemba```\n\n*●ᴘᴏᴡᴇʀᴅ ʙʏ ǫᴜᴇᴇɴ ᴀʟᴇxᴀ 2021●*\n⥈⥈⥈⥈⥈⥈⥈⥈⥈⥈⥈⥈⥈⥈⥈\n"
 
 if (Config.WORKTYPE == 'private') {
     
