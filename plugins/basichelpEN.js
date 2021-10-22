@@ -11,21 +11,21 @@ const Lang = Language.getString('system_stats');
 if (Config.LANG == 'EN') {
 if (Config.NEOY == 'xyz') {
 
-    Asena.addCommand({pattern: 'basichelp', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
+    Asena.addCommand({pattern: 'bhelp', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
             
             var image = await axios.get (Config.MENU_LOGO, {responseType: 'arraybuffer'})
        
-        await message.sendMessage (Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `*⊰᯽⊱┈──╌❊  ❊╌──┈⊰᯽⊱*
- *═▣══❖⦁⦁⦁👽⦁⦁⦁❖══▣═*
-*🚀Neotro-x BASIC Help*
+        await message.sendMessage (Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `*⊰᯽⊱┈──╌❊🧙❊╌──┈⊰᯽⊱*
+ *◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*
+  *QUEEN ALEXA BESIC HELP*
 
- Nootro-x Bot If you are using (Public) mode then you are only running admin commands.
+Queen alexa Bot If you are using (Public) mode then you are only running admin commands.
 But for others, all the commands except the admin commands are active ...
 
 Use (.Admin) to get the admin command list
-Use (.neotro) to get the complete command list.
+Use (.alexa) to get the complete command list.
 
-If you are using neotro-x as Private (.neotro) you can use this command to get the command list.
+If you are using Queen Alexa as Private (.alexa) you can use this command to get the command list.
 
 Simultaneous deactivation of your bot is not the bot's fault (75%)
 In that case, check your internet connection and whatsapp web.
@@ -134,22 +134,22 @@ ERRO Messages These are really Logo Site issues so don't worry about them.
 Other Erros have received your LOG number in detail and there is a solution to this .. Follow those steps
 
 
-*🚀Neotro-x Support Groups*
+*🚹Queen Alexa Support Groups🚹*
 
 
-🛸Neutro Bot News 01
+ *🪀Alexa Bot News 01*
 Https: //chat.whatsapp.com/LuLTEKm22fp8gv4ltCmKMo
 
-🚀Neotro Bot News 02
+ *🪀Alexa Bot News 02*
 Https: //chat.whatsapp.com/LVykTrmNEU98AktU0eBNNq
 
-🛸Neutro plugging
+ *🪀Neutro plugging*
 Https: //chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT
 
-🚀Neutro Support Community 01
+ *🪀Neutro Support Community 01*
 Https: //chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX
 
-🚀Neotro Support Community 02
+ *🪀Neotro Support Community 02*
 Https: //chat.whatsapp.com/K4QouGNrNcm1iARgDaYiLj
  `}) 
 
